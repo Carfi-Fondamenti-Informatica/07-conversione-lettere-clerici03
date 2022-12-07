@@ -7,8 +7,8 @@ bool funzione (char &a){
         }else {
             a-=32;
         }
-        return true;
+        return 1;
     }else {
-        return false;
+        return 0;
     }
 }
