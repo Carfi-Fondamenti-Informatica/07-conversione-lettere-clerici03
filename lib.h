@@ -3,4 +3,4 @@
 
 #endif //ESERCITAZIONE_7_LET_H
 
-bool funzione (char &a);
+bool funzione (char a);
